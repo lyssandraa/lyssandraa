@@ -11,8 +11,6 @@ My main project is a full booking, shop and loyalty platform for a working barbe
 | [LEV3L Barbers: website](https://github.com/lyssandraa/lev3lbarbers) | Bookings, Stripe shop, loyalty programme and a full admin dashboard. Live at [lev3lbarbers.com](https://www.lev3lbarbers.com) | React, Vite, Stripe |
 | [LEV3L Barbers: mobile app](https://github.com/lyssandraa/lev3lbarbers-app) | iOS app with QR loyalty stamps, bookings, push notifications and real-time multiplayer mini-games | React Native, Expo |
 | [Recipe Planner](https://github.com/lyssandraa/recipe-planner) | Recipes, pantry, meal planning and shopping in one app, with recipe import from URLs/PDFs, receipt OCR and barcode scanning. [Live demo](https://recipe-planner-dun.vercel.app) | Next.js, TypeScript, Prisma |
-| [Instagram clone](https://github.com/lyssandraa/Instagram-clone) | Full-stack photo app with sign-up, JWT login and favourites | React, Express, Sequelize |
-| [Week-9-auth](https://github.com/lyssandraa/Week-9-auth) | REST API with bcrypt, JWT and role-based access control | Node.js, Express |
 
 ## Tech I use
 
