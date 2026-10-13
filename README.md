@@ -19,3 +19,10 @@ My main project is a full booking, shop and loyalty platform for a working barbe
 **Backend:** Node.js, Express, Prisma, Sequelize, Mongoose
 **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
 **Other:** Stripe, REST APIs, JWT auth, WebSockets, Git & GitHub, Vercel
+
+## GitHub stats
+
+<p>
+  <img height="165" alt="Lysandra's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lyssandraa&show_icons=true&hide_rank=true&theme=transparent&hide_border=true" />
+  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyssandraa&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+</p>
