@@ -9,7 +9,7 @@ My main project is a full booking, shop and loyalty platform for a working barbe
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [LEV3L Barbers: website](https://github.com/lyssandraa/lev3lbarbers) | Bookings, Stripe shop, loyalty programme and a full admin dashboard. Live at [lev3lbarbers.com](https://www.lev3lbarbers.com) | React, Vite, Stripe |
-| [LEV3L Barbers: mobile app](https://github.com/lyssandraa/lev3lbarbers-app) | iOS & Android app with QR loyalty stamps, bookings, push notifications and real-time multiplayer mini-games | React Native, Expo |
+| [LEV3L Barbers: mobile app](https://github.com/lyssandraa/lev3lbarbers-app) | iOS app with QR loyalty stamps, bookings, push notifications and real-time multiplayer mini-games | React Native, Expo |
 | [Instagram clone](https://github.com/lyssandraa/Instagram-clone) | Full-stack photo app with sign-up, JWT login and favourites | React, Express, Sequelize |
 | [Week-9-auth](https://github.com/lyssandraa/Week-9-auth) | REST API with bcrypt, JWT and role-based access control | Node.js, Express |
 
